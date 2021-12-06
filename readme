@@ -2,7 +2,7 @@ view through jupyter
 download db at: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/leaderboard
 
 Model:
-![image](https://github.com/janobyte/catvsdog/blob/master/model.jpg?raw=true)
+![image](https://raw.githubusercontent.com/janobyte/catvsdog/master/model.jpg)
 
 Training:
-![image](https://github.com/janobyte/catvsdog/blob/master/training.png)
+![image](https://raw.githubusercontent.com/janobyte/catvsdog/master/training.png)
