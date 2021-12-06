@@ -1,8 +1,2 @@
-view through jupyter
-download db at: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/leaderboard
-
 Model:
-![image](https://raw.githubusercontent.com/janobyte/catvsdog/master/model.jpg)
-
-Training:
-![image](https://raw.githubusercontent.com/janobyte/catvsdog/master/training.png)
+![What is this](training.png)
